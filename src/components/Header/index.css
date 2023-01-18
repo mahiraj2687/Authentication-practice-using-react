@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.header_container {
+  display: flex;
+  justify-content: center;
+  border: 1px solid red;
+}
+.home_about {
+  margin: 5px;
+}
